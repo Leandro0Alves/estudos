@@ -1,2 +1,2 @@
 # estudos
-Repositório dedicado aos meus protótipos e exercícios dos meus estudos em programação.   
+Repositório dedicado as minhas anotações, protótipos e exercícios ao longo da minha jornada de estudos em programação.   
